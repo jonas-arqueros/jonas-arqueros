@@ -33,6 +33,13 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=social&logo=python&logoColor=white)
+
+
 ---
 
 ## 📊 Portfólio de Projetos
