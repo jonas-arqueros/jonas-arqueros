@@ -3,7 +3,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/))  [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jonas.arqueros)
-📫 Entre em contato: [seu.email@gmail.com](mailto:jonas.arqueros@gmail.com)
+
+📫 Entre em contato: [jonas.arqueros@gmail.com](mailto:jonas.arqueros@gmail.com)
 
 
 🏙️ Moro em São Paulo tenho 36 anos 
