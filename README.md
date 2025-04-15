@@ -13,7 +13,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 - 🏙️ Tenho 36 anos e moro em São Paulo-SP
 - 📚 Sou Meteorologista formado pelo IAG-USP 2021
-- 📚 Estudante de Ciência de Dados pela UNIVESP 
+- 📚 Estudante de Ciência de Dados pela UNIVESP (2026)
 - 🌦️ Estou construindo um portfólio com foco em **análise de dados**  
 - 📈 Explorando conexões entre clima, dados históricos e visualizações informativas  
 - 🎯 Estudando para a certificação **DP-900 - Azure Data Fundamentals**
@@ -24,8 +24,10 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-268BD2?style=plastic)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -64,12 +66,11 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ## 📊 Portfólio de Projetos
 
 **Meteorologia & Dados**
-- 🌡️ [Heatmap da Temperatura Máxima em São Paulo (1970–2020)](link-do-projeto)
-- ☔ [Análise de precipitação sazonal por década (em andamento)](link-do-projeto)
+- 🌡️ [Análise meteorológica da cidade de São Paulo - 50 anos de dados](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
+- ☔ [Análise de precipitação sazonal por década (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
 
 **Projetos de aprendizado**
-- 📈 [Exploração de dados com Pandas](link-do-projeto)
-- 📉 [Visualização com Seaborn: tendências de temperatura](link-do-projeto)
+- 📈 [Machine Learning](https://github.com/jonas-arqueros/Primeiras_Analises_de_Dados)
 
 ---
 
