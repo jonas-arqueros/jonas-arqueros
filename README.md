@@ -17,7 +17,6 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 - 🌦️ Estou construindo um portfólio com foco em **análise de dados**  
 - 📈 Explorando conexões entre clima, dados históricos e visualizações informativas  
 - 🎯 Estudando para a certificação **DP-900 - Azure Data Fundamentals**
-
 ---
 
 ### 🐍 Linguagens e Bibliotecas
@@ -28,7 +27,6 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-268BD2?style=plastic)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-
 ---
 
 ### 📊 Ferramentas de Visualização
@@ -37,14 +35,12 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-7724C0?style=plastic&logo=microsoftfabric&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white)
-
 ---
 
 ### 🗃️ Banco de Dados e SQL
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=plastic&logo=sql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white)
-
 ---
 
 ### ☁️ Cloud, Notebooks e Plataformas
@@ -52,15 +48,12 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter)
-
 ---
 
 ### 💻 Sistemas Operacionais
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=plastic&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
-
-
 ---
 
 ## 📊 Portfólio de Projetos
@@ -71,12 +64,10 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 **Projetos de aprendizado**
 - 📈 [Machine Learning](https://github.com/jonas-arqueros/Primeiras_Analises_de_Dados)
-
 ---
 
 ## 📝 Em breve: artigos e tutoriais
 > Quero compartilhar aprendizados sobre análise climática, dados públicos e Python em blog ou Medium.
-
 ---
 
 <div>
