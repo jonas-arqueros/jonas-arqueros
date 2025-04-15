@@ -30,6 +30,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ---
 
