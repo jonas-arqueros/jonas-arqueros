@@ -2,7 +2,12 @@
 Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ---
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/))   [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jonas.arqueros)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/))   
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)]([https://www.linkedin.com/in/francisco-tadeu-foz/](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/))
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jonas.arqueros)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+)]([https://medium.com/@franciscofoz](https://medium.com/@jonas.arqueros))
 
 📫 Entre em contato: [jonas.arqueros@gmail.com](mailto:jonas.arqueros@gmail.com)
 
