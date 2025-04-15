@@ -33,9 +33,9 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ### 📊 Ferramentas de Visualização
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Microsoft Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-7724C0?style=plastic&logo=microsoftfabric&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white)
 
 ---
@@ -49,8 +49,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ### ☁️ Cloud, Notebooks e Plataformas
 
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter)
 
 ---
