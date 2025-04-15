@@ -50,9 +50,10 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ---
 
-## 📫 Como me encontrar:
-jonas.arqueros@gmail.com
-
+<div>
+<a href="https://github.com/jonas-arqueros">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-arqueros&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 ---
 
 Obrigado por passar por aqui! ✨
