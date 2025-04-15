@@ -5,18 +5,17 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jonas-guitart-guimaraes-de-arqueros-e-ribeiro/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jonas.arqueros)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 )](https://medium.com/@jonas.arqueros)
 
 📫 Entre em contato: [jonas.arqueros@gmail.com](mailto:jonas.arqueros@gmail.com)
 
 
-- 🏙️ Moro em São Paulo tenho 36 anos  
-- 📚 Sou Meteorologista e estudante de Ciência de Dados  
+- 🏙️ Tenho 36 anos e moro em São Paulo-SP
+- 📚 Sou Meteorologista formado pelo IAG-USP 2021
+- 📚 Estudante de Ciência de Dados pela UNIVESP 
 - 🌦️ Estou construindo um portfólio com foco em **análise de dados**  
 - 📈 Explorando conexões entre clima, dados históricos e visualizações informativas  
-- 💻 Usando Python, Pandas, Matplotlib, Seaborn, e Jupyter Notebooks  
 - 🎯 Estudando para a certificação **DP-900 - Azure Data Fundamentals**
 
 ---
