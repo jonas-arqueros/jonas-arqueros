@@ -31,8 +31,10 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=plastic&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-268BD2?style=plastic)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-402713?style=plastic&logo=beautifulsoup4&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ---
 
@@ -41,6 +43,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Microsoft Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-7724C0?style=plastic&logo=microsoftfabric&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=plastic&logo=looker&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white)
 ---
 
@@ -55,6 +58,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white)
 ---
 
 ### 💻 Sistemas Operacionais
@@ -67,11 +71,11 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ## 📊 Portfólio de Projetos
 
 **Meteorologia & Dados**
-- 🌡️ [Análise meteorológica da cidade de São Paulo - 50 anos de dados](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
+- 🌡️ [Análise meteorológica da cidade de São Paulo - 50 anos de dados (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
 - ☔ [Análise de precipitação sazonal por década (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
 
 **Projetos de aprendizado**
-- 📈 [Machine Learning](https://github.com/jonas-arqueros/Primeiras_Analises_de_Dados)
+- 📈 [Machine Learning (em andamento)](https://github.com/jonas-arqueros/Primeiras_Analises_de_Dados)
 ---
 
 ## 📝 Em breve: artigos e tutoriais
