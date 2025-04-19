@@ -1,4 +1,8 @@
-# Olá! Eu me chamo Jonas 👋  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=150&section=header&text=Olá!&fontColor=ffffff&fontSize=30"/>
+</p>
+
+# Eu me chamo Jonas 👋  
 Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ---
