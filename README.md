@@ -79,7 +79,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ---
 
 ## 📝 Em breve: artigos e tutoriais
-> Quero compartilhar aprendizados sobre análise climática, dados públicos e Python em blog ou Medium.
+- 👨‍💻Quero compartilhar aprendizados sobre análise climática, dados públicos e Python em blog ou Medium. 
+- 🐍[Minha documentação Python Básico](https://github.com/jonas-arqueros/Minha_documentacao_Python)
 ---
 
 <div>
