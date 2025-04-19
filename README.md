@@ -1,8 +1,10 @@
-<p align="center" style="margin-bottom: -30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Olá&fontColor=ffffff&fontSize=40&fontAlignY=35"/>
+<p align="center" style="margin-bottom: -20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=130&section=header&text=Olá&fontColor=ffffff&fontSize=40&fontAlignY=35"/>
 </p>
 
-### <p align="center">Eu me chamo Jonas 👋</p>
+<h1 align="center" style="margin-top: 0;">
+  Eu me chamo Jonas 👋
+</h1>
 
 Seja bem-vindo(a) ao meu perfil no GitHub!
 
