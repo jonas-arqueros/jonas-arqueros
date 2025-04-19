@@ -60,6 +60,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=plastic&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-E95420?style=plastic&logo=Debian&logoColor=white)
 ---
 
 ## 📊 Portfólio de Projetos
