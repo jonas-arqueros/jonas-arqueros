@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Olá&fontColor=ffffff&fontSize=40&fontAlignY=35"/>
 </p>
-## Eu me chamo Jonas 👋  
-
+ 
+<h1 align="center">
+  Eu me chamo Jonas 👋
+</h1>
 Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ---
