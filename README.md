@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=150&section=header&text=Olá!&fontColor=ffffff&fontSize=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Olá&fontColor=ffffff&fontSize=40&fontAlignY=35"/>
 </p>
+
 
 # Eu me chamo Jonas 👋  
 Seja bem-vindo(a) ao meu perfil no GitHub!
@@ -81,3 +82,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ---
 
 Obrigado por passar por aqui! ✨
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer&text=Obrigado%20por%20passar%20por%20aqui!%20✨&fontColor=ffffff&fontSize=25&fontAlignY=65"/>
+</p>
+
