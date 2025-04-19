@@ -1,9 +1,8 @@
 <p align="center" style="margin-bottom: -30px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Olá&fontColor=ffffff&fontSize=40&fontAlignY=35"/>
 </p>
-<h1 align="center" style="margin-top: 0;">
-  Eu me chamo Jonas 👋
-</h1>
+
+### <p align="center">Eu me chamo Jonas 👋</p>
 
 Seja bem-vindo(a) ao meu perfil no GitHub!
 
@@ -60,7 +59,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=plastic&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-E95420?style=plastic&logo=Debian&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-E95420?style=plastic&logo=debian&logoColor=white)
 ---
 
 ## 📊 Portfólio de Projetos
