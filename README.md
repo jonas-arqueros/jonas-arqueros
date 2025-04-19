@@ -38,7 +38,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ---
 
-### 📊 Ferramentas de Visualização
+### 📊 Ferramentas de Visualização e Plataformas
 
 ![Microsoft Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-7724C0?style=plastic&logo=microsoftfabric&logoColor=white)
