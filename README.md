@@ -34,8 +34,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=plastic&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-268BD2?style=plastic)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-402713?style=plastic&logo=beautifulsoup4&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-402713?style=plastic&logo=beautifulsoup4&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 ---
