@@ -36,6 +36,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Seaborn](https://img.shields.io/badge/-Seaborn-268BD2?style=plastic)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-402713?style=plastic&logo=beautifulsoup4&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 ---
 
 ### 📊 Ferramentas de Visualização e Plataformas
