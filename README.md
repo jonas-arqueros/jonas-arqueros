@@ -21,9 +21,10 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 - 🏙️ Tenho 36 anos e moro em São Paulo-SP
 - 📚 Sou Meteorologista formado pelo IAG-USP 2020
 - 📚 Estudante de Ciência de Dados pela UNIVESP (2026)
-- 🌦️ Estou construindo um portfólio com foco em **análise de dados**  
-- 📈 Explorando conexões entre clima, dados históricos e visualizações informativas  
-- 🎯 Estudando para a certificação **DP-900 - Azure Data Fundamentals**
+- 📚 Estudante de Tecnologia da Informação pela UNIVESP (2026)
+- 🌦️ Estou construindo um portfólio com foco em **Análise de Dados**, **Machine Learning** e **Visualização de Dados**
+- 📈 Explorando conexões entre clima, dados históricos e visualizações informativas 
+- 🎯 Estudando para as certificações **DP-900 - Azure Data Fundamentals** e **AZ-900 - Azure Fundamentals**
 ---
 
 ### 🐍 Linguagens e Bibliotecas
