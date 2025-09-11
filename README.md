@@ -39,6 +39,11 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-402713?style=plastic&logo=beautifulsoup4&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=plastic&logo=fortran&logoColor=white)
+![GrADS](https://img.shields.io/badge/GrADS-32CD32?style=plastic)
 ---
 
 ### 📊 Ferramentas de Visualização e Plataformas
@@ -71,7 +76,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=plastic&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-E95420?style=plastic&logo=debian&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-FF1493?style=plastic&logo=debian&logoColor=white)
 ---
 
 ## 📊 Portfólio de Projetos
