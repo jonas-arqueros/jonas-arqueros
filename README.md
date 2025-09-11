@@ -54,6 +54,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=plastic&logo=sql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
 ---
 
 ### ☁️ Cloud, Notebooks e Plataformas
@@ -61,6 +62,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white)
 ---
 
