@@ -60,6 +60,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ### ☁️ Cloud, Notebooks e Plataformas
 
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
