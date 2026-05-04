@@ -30,7 +30,6 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 - 📈 Atuação em **Análise**, **Tratamento** e **Visualização de Dados**
 - 🤖 Experiência em **Machine Learning** em projetos práticos  
-- 📊 Desenvolvimento de soluções para geração de insights e apoio à decisão  
 - 🌍 Atuação com séries temporais e dados ambientais  
 - ☁️ Em preparação para certificações Azure (DP-900 e AZ-900)
 ---
@@ -44,7 +43,6 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-268BD2?style=plastic)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-
 ---
 
 ### 📊 Ferramentas de Visualização e Plataformas
@@ -82,9 +80,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Debian](https://img.shields.io/badge/Debian-FF1493?style=plastic&logo=debian&logoColor=white)
 ---
 
-## 📊 Portfólio de Projetos
+# 📊 Portfólio de Projetos
 
-**Meteorologia & Dados**
 ### 🌡️ [Análise meteorológica da cidade de São Paulo - 50 anos de dados (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
 - Exploração de tendências e sazonalidade
 - Visualizações com Python (Pandas, Seaborn)
@@ -94,15 +91,14 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 - Comparação entre períodos históricos
 - Identificação de variabilidade e extremos
 
-**Projetos de aprendizado**
 ###  📈 [Machine Learning (em andamento)](https://github.com/jonas-arqueros/Primeiras_Analises_de_Dados)
 - Modelos iniciais aplicados a dados reais
 - Pipeline de preparação e avaliação de modelos
----
 
-## 📝 Em breve: artigos e tutoriais
-- 👨‍💻Quero compartilhar aprendizados sobre análise climática, dados públicos e Python em blog ou Medium. 
-- 🐍[Minha documentação Python Básico](https://github.com/jonas-arqueros/Minha_documentacao_Python)
+# 📝 Conteúdo e estudos
+
+### 🐍 [Minha documentação Python Básico](https://github.com/jonas-arqueros/Minha_documentacao_Python)
+### ✍️ Em desenvolvimento: artigos sobre análise de dados e dados públicos
 ---
 
 <div align="center">
@@ -110,7 +106,6 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-arqueros&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer&text=Obrigado%20por%20passar%20por%20aqui!%20✨&fontColor=ffffff&fontSize=25&fontAlignY=65"/>
