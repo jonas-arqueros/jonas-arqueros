@@ -10,6 +10,12 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ---
 
+<h3 align="center" style="margin-top: 0;">
+  💡 Profissional de dados com foco em análise, modelagem e visualização
+</h3>
+
+---
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jonasggaribeiro/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
@@ -17,14 +23,15 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 📫 Entre em contato: [jonas.arqueros@gmail.com](mailto:jonas.arqueros@gmail.com)
 
-
-- 🏙️ Tenho 36 anos e moro em São Paulo-SP
-- 📚 Sou Meteorologista formado pelo IAG-USP 2020
-- 📚 Estudante de Ciência de Dados pela UNIVESP (2026)
-- 📚 Estudante de Tecnologia da Informação pela UNIVESP (2026)
-- 🌦️ Estou construindo um portfólio com foco em **Análise de Dados**, **Machine Learning** e **Visualização de Dados**
-- 📈 Explorando conexões entre clima, dados históricos e visualizações informativas 
-- 🎯 Estudando para as certificações **DP-900 - Azure Data Fundamentals** e **AZ-900 - Azure Fundamentals**
+- 📍 Sorocaba-SP | São Paulo-SP  
+- 🎓 Meteorologista pelo IAG-USP (2020)  
+- 💻 Tecnólogo em Tecnologia da Informação – UNIVESP (2026)  
+- 📊 Concluindo graduação em Ciência de Dados – UNIVESP (TCC em andamento)
+- 📈 Atuação em **Análise**, **Tratamento** e **Visualização de Dados**  
+- 🤖 Experiência em **Machine Learning** e **Exploração de Dados**  
+- 📊 Desenvolvimento de projetos com foco em geração de insights e apoio à tomada de decisão  
+- 🌍 Experiência com dados ambientais e séries temporais, com aplicação em diferentes contextos  
+- ☁️ Estudando para certificações: DP-900 (Azure Data Fundamentals) e AZ-900 (Azure Fundamentals)
 ---
 
 ### 🐍 Linguagens e Bibliotecas
@@ -36,9 +43,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-268BD2?style=plastic)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-402713?style=plastic&logo=beautifulsoup4&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
