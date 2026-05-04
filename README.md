@@ -10,8 +10,8 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ---
 
-<h3 align="center" style="margin-top: 0;">
-  💡 Profissional de dados com foco em análise, modelagem e visualização
+<h3 align="center">
+💡 Análise de dados, modelagem e visualização aplicadas a problemas reais
 </h3>
 
 ---
@@ -25,13 +25,14 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 - 📍 Sorocaba-SP | São Paulo-SP  
 - 🎓 Meteorologista pelo IAG-USP (2020)  
-- 💻 Tecnólogo em Tecnologia da Informação – UNIVESP (2026)  
-- 📊 Concluindo graduação em Ciência de Dados – UNIVESP (TCC em andamento)
-- 📈 Atuação em **Análise**, **Tratamento** e **Visualização de Dados**  
-- 🤖 Experiência em **Machine Learning** e **Exploração de Dados**  
-- 📊 Desenvolvimento de projetos com foco em geração de insights e apoio à tomada de decisão  
-- 🌍 Experiência com dados ambientais e séries temporais, com aplicação em diferentes contextos  
-- ☁️ Estudando para certificações: DP-900 (Azure Data Fundamentals) e AZ-900 (Azure Fundamentals)
+- 💻 Tecnólogo em TI – UNIVESP (2026)  
+- 📊 Concluindo Ciência de Dados (TCC em andamento)  
+
+- 📈 Atuação em **Análise**, **Tratamento** e **Visualização de Dados**
+- 🤖 Experiência em **Machine Learning** em projetos práticos  
+- 📊 Desenvolvimento de soluções para geração de insights e apoio à decisão  
+- 🌍 Atuação com séries temporais e dados ambientais  
+- ☁️ Em preparação para certificações Azure (DP-900 e AZ-900)
 ---
 
 ### 🐍 Linguagens e Bibliotecas
@@ -44,11 +45,6 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Seaborn](https://img.shields.io/badge/-Seaborn-268BD2?style=plastic)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=plastic&logo=fortran&logoColor=white)
-![GrADS](https://img.shields.io/badge/GrADS-32CD32?style=plastic)
 ---
 
 ### 📊 Ferramentas de Visualização e Plataformas
@@ -77,9 +73,11 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white)
 ---
 
-### 💻 Sistemas Operacionais
-
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=plastic&logo=windows&logoColor=white)
+### 🧠 Outros conhecimentos e esperiências
+![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=plastic&logo=fortran&logoColor=white)
+![GrADS](https://img.shields.io/badge/GrADS-32CD32?style=plastic)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-FF1493?style=plastic&logo=debian&logoColor=white)
 ---
@@ -87,11 +85,19 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ## 📊 Portfólio de Projetos
 
 **Meteorologia & Dados**
-- 🌡️ [Análise meteorológica da cidade de São Paulo - 50 anos de dados (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
-- ☔ [Análise de precipitação sazonal por década (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
+### 🌡️ [Análise meteorológica da cidade de São Paulo - 50 anos de dados (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
+- Exploração de tendências e sazonalidade
+- Visualizações com Python (Pandas, Seaborn)
+- Identificação de padrões climáticos ao longo do tempo
+
+###  ☔ [Análise de precipitação sazonal por década (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
+- Comparação entre períodos históricos
+- Identificação de variabilidade e extremos
 
 **Projetos de aprendizado**
-- 📈 [Machine Learning (em andamento)](https://github.com/jonas-arqueros/Primeiras_Analises_de_Dados)
+###  📈 [Machine Learning (em andamento)](https://github.com/jonas-arqueros/Primeiras_Analises_de_Dados)
+- Modelos iniciais aplicados a dados reais
+- Pipeline de preparação e avaliação de modelos
 ---
 
 ## 📝 Em breve: artigos e tutoriais
@@ -99,9 +105,10 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 - 🐍[Minha documentação Python Básico](https://github.com/jonas-arqueros/Minha_documentacao_Python)
 ---
 
-<div>
-<a href="https://github.com/jonas-arqueros">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-arqueros&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/jonas-arqueros">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-arqueros&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 ---
 
