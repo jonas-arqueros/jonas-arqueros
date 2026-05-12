@@ -34,7 +34,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 - ☁️ Em preparação para certificações Azure (DP-900 e AZ-900)
 ---
 
-### 🐍 Linguagens e Bibliotecas
+### Linguagens e Bibliotecas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas)
@@ -45,7 +45,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ---
 
-### 📊 Ferramentas de Visualização e Plataformas
+### Ferramentas de Visualização e Plataformas
 
 ![Microsoft Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-7724C0?style=plastic&logo=microsoftfabric&logoColor=white)
@@ -54,14 +54,14 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white)
 ---
 
-### 🗃️ Banco de Dados e SQL
+### Banco de Dados e SQL
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=plastic&logo=sql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
 ---
 
-### ☁️ Cloud, Notebooks e Plataformas
+### Cloud, Notebooks e Plataformas
 
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
@@ -71,7 +71,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white)
 ---
 
-### 🧠 Outros conhecimentos e esperiências
+### Outros conhecimentos e esperiências
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=plastic&logo=fortran&logoColor=white)
@@ -80,25 +80,25 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 ![Debian](https://img.shields.io/badge/Debian-FF1493?style=plastic&logo=debian&logoColor=white)
 ---
 
-# 📊 Portfólio de Projetos
+# Portfólio de Projetos
 
 ### 🌡️ [Análise meteorológica da cidade de São Paulo - 50 anos de dados (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
 - Exploração de tendências e sazonalidade
 - Visualizações com Python (Pandas, Seaborn)
 - Identificação de padrões climáticos ao longo do tempo
 
-###  ☔ [Análise de precipitação sazonal por década (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
+### ☔ [Análise de precipitação sazonal por década (em andamento)](https://github.com/jonas-arqueros/Projetos_e_Analises/tree/main/clima-sp)
 - Comparação entre períodos históricos
 - Identificação de variabilidade e extremos
 
-###  📈 [Machine Learning (em andamento)](https://github.com/jonas-arqueros/Primeiras_Analises_de_Dados)
+### 📈 [Machine Learning (em andamento)](https://github.com/jonas-arqueros/Primeiras_Analises_de_Dados)
 - Modelos iniciais aplicados a dados reais
 - Pipeline de preparação e avaliação de modelos
 
-# 📝 Conteúdo e estudos
+# Conteúdo e estudos
 
-### 🐍 [Minha documentação Python Básico](https://github.com/jonas-arqueros/Minha_documentacao_Python)
-### ✍️ Em desenvolvimento: artigos sobre análise de dados e dados públicos
+### [Minha documentação Python Básico](https://github.com/jonas-arqueros/Minha_documentacao_Python)
+### Em desenvolvimento: artigos sobre análise de dados e dados públicos
 ---
 
 <div align="center">
