@@ -31,7 +31,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 - 📈 Atuação em **Análise**, **Tratamento** e **Visualização de Dados**
 - 🤖 Experiência em **Machine Learning** em projetos práticos  
 - 🌍 Atuação com séries temporais e dados ambientais  
-- ☁️ Em preparação para certificações Azure (DP-900 e AZ-900)
+- ☁️ Em preparação para certificações Azure (DP-900, PL-300 e AZ-900)
 ---
 
 ### Linguagens e Bibliotecas
